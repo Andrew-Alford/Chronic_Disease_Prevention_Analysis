@@ -17,7 +17,7 @@ This project is a Python-based data analysis project that utilizes two datasets 
 To get started with the CDC Dataset Analysis project, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
+2. Install the required dependencies using `pip install -r` command.
 3. Run the `Chronic_Disease_Code.py` script to clean the CDC datasets.
 4. Execute the `Chronic_Disease_Code.py` script to perform the data analysis and generate visualizations.
 5. View the US_Chronic_Disease_Indicators_and_Causes_of_Death_Analysis document for a completed version of the key takeaways.
